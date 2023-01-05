@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997429075679",
+    "project_id": "react-native-user-regdata",
+    "storage_bucket": "react-native-user-regdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997429075679:android:73068c12b8e1ed461f536a",
+        "android_client_info": {
+          "package_name": "com.uregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997429075679-f9vh0f1cj0a4ktk0ublbt96b1hrq6uak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXRpDJP_E6bgqOF_OYtjkJRi76n9LDEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997429075679-f9vh0f1cj0a4ktk0ublbt96b1hrq6uak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
